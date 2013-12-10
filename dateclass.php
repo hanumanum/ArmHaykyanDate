@@ -56,7 +56,7 @@
 // Աշխատում է միայն մեր թվարկության ամսաթվերի համար
 // Հեղինակ։ Հանուման
 // Հեղինակի կայք։ http://ablog.gratun.am
-// Գիթհաբում: 
+// Գիթհաբում: https://github.com/hanumanum/ArmHaykyanDate/
 
 // ՀԱՅԿԱՆ ՏՈՄԱՐԻ ՍԿԻԶԲԸ, ըստ տարբեր աղբյուրների
 // ՏԱՐԲԵՐԱԿ 1 մթա 2492 ,օգոստոսի 11 	աղբյուր https://hayaryakanch.wordpress.com/2011/06/29/%D5%B0%D5%A1%D5%B5%D5%B8%D6%81-%D5%B6%D5%A1%D5%AD%D5%A1%D6%84%D6%80%D5%AB%D5%BD%D5%BF%D5%B8%D5%B6%D5%A5%D5%A1%D5%AF%D5%A1%D5%B6-%D5%BF%D5%B8%D5%B4%D5%A1%D6%80%D5%AB-%D5%A4%D5%AB%D6%81%D5%A1%D5%AF/
